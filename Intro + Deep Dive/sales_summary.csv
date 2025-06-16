@@ -1,0 +1,11 @@
+Product,Category,Price,Units Sold,Month,Total Revenue
+Laptop,Electronics,1000,30,January,30000
+Smartphone,Electronics,700,45,January,31500
+Tablet,Electronics,300,20,January,6000
+Laptop,Electronics,1000,25,February,25000
+Smartphone,Electronics,700,50,February,35000
+Tablet,Electronics,300,15,February,4500
+Laptop,Electronics,1000,35,March,35000
+Smartphone,Electronics,700,40,March,28000
+Tablet,Electronics,300,30,March,9000
+Headphones,Accessories,100,80,March,8000
